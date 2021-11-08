@@ -18,7 +18,7 @@ vk_token = "c068066b0087ef316ab81beb58f4c1caf4a7c62b4c1ac1a2cfb7ab6de13f83baf974
 # for example:
 # if link is vk.com/>>>example<<<
 # vk_domain = "example"
-vk_domain = "pmpage"
+vk_domain = "amazing_gopro"
 
 # Link to another Telegram channel if you want to receive bot log messages.
 # You can use the same bot as for the main task.
