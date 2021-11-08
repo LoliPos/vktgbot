@@ -12,7 +12,7 @@ tg_bot_token = "2126856103:AAHQB71TPN5SYyFEeHyBGr5qmYTfti1P6ak"
 # Personal token for your VK profile.
 # You can get it here:
 # https://github.com/alcortazzo/vktgbot/wiki/How-to-get-personal-access-token
-vk_token = "c068066b0087ef316ab81beb58f4c1caf4a7c62b4c1ac1a2cfb7ab6de13f83baf974717cc9939039c90d7"
+vk_token = "TOKEN"
 
 # Part of the link (after vk.com/) to the VK channel
 # for example:
