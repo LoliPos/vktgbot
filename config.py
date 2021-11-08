@@ -3,22 +3,22 @@
 # tgChannel = "@durov"
 # tgChannel = -1234567890987
 # Don't forget to add bot to this channel as an administrator!
-tg_channel = "@aaaa"
+tg_channel = "@fdsjfndsfdskjfsfnwcsdsadvadf"
 
 # Token for your Telegram bot.
 # You can get it here: https://t.me/BotFather
-tg_bot_token = "1234567890:AAA-AaA1aaa1AAaaAa1a1AAAAA-a1aa1-Aa"
+tg_bot_token = "2126856103:AAHQB71TPN5SYyFEeHyBGr5qmYTfti1P6ak"
 
 # Personal token for your VK profile.
 # You can get it here:
 # https://github.com/alcortazzo/vktgbot/wiki/How-to-get-personal-access-token
-vk_token = "00a0a0ab00f0a0ab00f0a6ab0c00000b0f000f000f0a0ab0a00b000000dd00000000de0"
+vk_token = "c068066b0087ef316ab81beb58f4c1caf4a7c62b4c1ac1a2cfb7ab6de13f83baf974717cc9939039c90d7"
 
 # Part of the link (after vk.com/) to the VK channel
 # for example:
 # if link is vk.com/>>>example<<<
 # vk_domain = "example"
-vk_domain = "bbbb"
+vk_domain = "pinka29"
 
 # Link to another Telegram channel if you want to receive bot log messages.
 # You can use the same bot as for the main task.
